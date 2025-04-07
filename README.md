@@ -1,6 +1,6 @@
 # Wholesale Customer Recommendation System  
 
-**A data-driven solution for personalized product recommendations in wholesale distribution**  
+**A data-driven solution for personalized product recommendations in wholesale distributions**  
 
 This system analyzes transactional purchase patterns to deliver targeted product suggestions to wholesale customers. Leveraging machine learning techniques and customer similarity analysis, it helps businesses enhance cross-selling opportunities and improve customer engagement.
 
